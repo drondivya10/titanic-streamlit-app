@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 
 
-st.image("titanic.png", use_column_width=True, caption="Titanic - Predict Survival")
+st.image("titanic.png", use_container_width=True, caption="Titanic - Predict Survival")
 
 
 # Load models
